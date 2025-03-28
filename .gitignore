@@ -2,5 +2,9 @@
 __pychache__/
 *.py[cod]
 *.so
+*.pyc
+*.pkl
+*.h5
 
 .env
+.DS_Store
