@@ -34,8 +34,8 @@ jobs:
 
     - name: Train the Model
       run: |
-        python train_model.py
+        python trainModel.py
 
     - name: Predict using the Model
       run: |
-        python predict_model.py
+        python inference.py
